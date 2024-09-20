@@ -1,6 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import Header from "./components/Header";
 
 const api = {
   key: "c949dc37ae90bfe233caaa5f5bc302bf",
